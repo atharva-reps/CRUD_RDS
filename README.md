@@ -1,6 +1,7 @@
 CRUD OPERATIONS ON RDS
 
-![image](https://github.com/user-attachments/assets/aebfa6b4-ab03-4b88-add3-df15ac4d51ee)
+![464307455-aebfa6b4-ab03-4b88-add3-df15ac4d51ee](https://github.com/user-attachments/assets/ab40c74a-72e9-4ea4-90b1-435f9e43b90a)
+
 
 # 🧠 Student Management System (AWS RDS + Flask + HTML)
 
